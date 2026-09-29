@@ -1,0 +1,501 @@
+﻿No,Korean,English
+1,안녕하세요,hello
+2,안녕,hi/bye
+3,감사합니다,thank you
+4,고맙습니다,thank you
+5,죄송합니다,I'm sorry
+6,미안합니다,I'm sorry
+7,네,yes
+8,아니요,no
+9,괜찮아요,it's okay
+10,주세요,please give me
+11,안녕히 가세요,goodbye (to someone leaving)
+12,안녕히 계세요,goodbye (to someone staying)
+13,실례합니다,excuse me
+14,어서 오세요,welcome
+15,축하합니다,congratulations
+16,나,I/me (casual)
+17,저,I/me (polite)
+18,너,you (casual)
+19,당신,you
+20,우리,we/our
+21,저희,we/our (humble)
+22,이름,name
+23,사람,person
+24,친구,friend
+25,학생,student
+26,선생님,teacher
+27,학교,school
+28,대학교,university
+29,회사,company
+30,회사원,office worker
+31,가족,family
+32,아버지,father
+33,어머니,mother
+34,아빠,dad
+35,엄마,mom
+36,형,older brother (male speaker)
+37,오빠,older brother (female speaker)
+38,누나,older sister (male speaker)
+39,언니,older sister (female speaker)
+40,동생,younger sibling
+41,남자,man/male
+42,여자,woman/female
+43,아이,child
+44,아기,baby
+45,어른,adult
+46,선배,senior
+47,후배,junior
+48,오늘,today
+49,어제,yesterday
+50,내일,tomorrow
+51,지금,now
+52,나중에,later
+53,아침,morning
+54,점심,lunch/noon
+55,저녁,evening/dinner
+56,밤,night
+57,새벽,dawn/early morning
+58,시간,time/hour
+59,분,minute
+60,초,second
+61,요일,day of the week
+62,주,week
+63,월요일,Monday
+64,화요일,Tuesday
+65,수요일,Wednesday
+66,목요일,Thursday
+67,금요일,Friday
+68,토요일,Saturday
+69,일요일,Sunday
+70,주말,weekend
+71,월,month
+72,년,year
+73,하나,one
+74,둘,two
+75,셋,three
+76,넷,four
+77,다섯,five
+78,여섯,six
+79,일곱,seven
+80,여덟,eight
+81,아홉,nine
+82,열,ten
+83,백,one hundred
+84,천,one thousand
+85,이것,this thing
+86,그것,that thing
+87,저것,that thing over there
+88,여기,here
+89,거기,there
+90,저기,over there
+91,어디,where
+92,누구,who
+93,무엇,what
+94,뭐,what (casual)
+95,언제,when
+96,왜,why
+97,어떻게,how
+98,어느,which
+99,얼마,how much
+100,집,house/home
+101,방,room
+102,문,door
+103,창문,window
+104,책상,desk
+105,의자,chair
+106,침대,bed
+107,부엌,kitchen
+108,화장실,bathroom
+109,가게,shop/store
+110,시장,market
+111,식당,restaurant
+112,카페,cafe
+113,병원,hospital
+114,은행,bank
+115,도서관,library
+116,공원,park
+117,공항,airport
+118,역,station
+119,호텔,hotel
+120,편의점,convenience store
+121,우체국,post office
+122,약국,pharmacy
+123,한국,Korea
+124,서울,Seoul
+125,도시,city
+126,나라,country
+127,길,road/way
+128,거리,street/distance
+129,주소,address
+130,전화,telephone
+131,버스,bus
+132,지하철,subway
+133,기차,train
+134,택시,taxi
+135,자동차,car
+136,자전거,bicycle
+137,비행기,airplane
+138,물,water
+139,밥,rice/meal
+140,빵,bread
+141,고기,meat
+142,생선,fish
+143,닭,chicken
+144,계란,egg
+145,우유,milk
+146,커피,coffee
+147,차,tea
+148,주스,juice
+149,맥주,beer
+150,김치,kimchi
+151,라면,ramyeon
+152,국,soup
+153,찌개,stew
+154,과일,fruit
+155,사과,apple
+156,바나나,banana
+157,딸기,strawberry
+158,포도,grape
+159,오렌지,orange
+160,수박,watermelon
+161,채소,vegetable
+162,감자,potato
+163,고구마,sweet potato
+164,당근,carrot
+165,양파,onion
+166,토마토,tomato
+167,밥집,rice restaurant
+168,맛,taste
+169,소금,salt
+170,설탕,sugar
+171,매운,spicy
+172,달다,to be sweet
+173,좋다,to be good
+174,나쁘다,to be bad
+175,크다,to be big
+176,작다,to be small
+177,많다,to be many/much
+178,적다,to be few/little
+179,길다,to be long
+180,짧다,to be short
+181,높다,to be high
+182,낮다,to be low
+183,빠르다,to be fast
+184,느리다,to be slow
+185,쉽다,to be easy
+186,어렵다,to be difficult
+187,덥다,to be hot
+188,춥다,to be cold
+189,좋아하다,to like
+190,사랑하다,to love
+191,싫어하다,to dislike
+192,알다,to know
+193,모르다,to not know
+194,있다,to exist/have
+195,없다,to not exist/not have
+196,가다,to go
+197,오다,to come
+198,먹다,to eat
+199,마시다,to drink
+200,자다,to sleep
+201,일어나다,to get up
+202,보다,to see/watch
+203,듣다,to hear/listen
+204,읽다,to read
+205,쓰다,to write/use
+206,말하다,to speak
+207,배우다,to learn
+208,가르치다,to teach
+209,공부하다,to study
+210,일하다,to work
+211,쉬다,to rest
+212,놀다,to play/hang out
+213,만나다,to meet
+214,살다,to live
+215,사다,to buy
+216,팔다,to sell
+217,주다,to give
+218,받다,to receive
+219,열다,to open
+220,닫다,to close
+221,앉다,to sit
+222,서다,to stand
+223,걷다,to walk
+224,뛰다,to run
+225,타다,to ride
+226,내리다,to get off
+227,기다리다,to wait
+228,찾다,to find/look for
+229,만들다,to make
+230,요리하다,to cook
+231,씻다,to wash
+232,입다,to wear
+233,벗다,to take off clothes
+234,신다,to wear shoes
+235,찍다,to take a picture
+236,보내다,to send
+237,전화하다,to call
+238,시작하다,to start
+239,끝나다,to end
+240,끝내다,to finish
+241,도와주다,to help
+242,필요하다,to need
+243,원하다,to want
+244,준비하다,to prepare
+245,생각하다,to think
+246,이해하다,to understand
+247,기억하다,to remember
+248,잊다,to forget
+249,연습하다,to practice
+250,질문하다,to ask a question
+251,대답하다,to answer
+252,선택하다,to choose
+253,사용하다,to use
+254,검색하다,to search
+255,공유하다,to share
+256,저장하다,to save
+257,다운로드하다,to download
+258,공부,study
+259,수업,class/lesson
+260,책,book
+261,공책,notebook
+262,연필,pencil
+263,펜,pen
+264,종이,paper
+265,컴퓨터,computer
+266,휴대폰,mobile phone
+267,핸드폰,cell phone
+268,인터넷,internet
+269,사진,photo
+270,음악,music
+271,영화,movie
+272,게임,game
+273,문제,problem/question
+274,답,answer
+275,시험,exam
+276,숙제,homework
+277,단어,word
+278,문장,sentence
+279,언어,language
+280,한국어,Korean language
+281,영어,English language
+282,수학,mathematics
+283,과학,science
+284,역사,history
+285,이야기,story
+286,질문,question
+287,대답,answer
+288,이해,understanding
+289,연습,practice
+290,점수,score
+291,성적,grade/academic performance
+292,교실,classroom
+293,도서,book/document
+294,페이지,page
+295,빨강,red
+296,파랑,blue
+297,노랑,yellow
+298,초록,green
+299,검정,black
+300,하얀색,white
+301,회색,gray
+302,분홍색,pink
+303,보라색,purple
+304,갈색,brown
+305,색,color
+306,밝다,to be bright
+307,어둡다,to be dark
+308,돈,money
+309,가격,price
+310,비싸다,to be expensive
+311,싸다,to be cheap
+312,무료,free of charge
+313,카드,card
+314,현금,cash
+315,영수증,receipt
+316,할인,discount
+317,쇼핑,shopping
+318,가방,bag
+319,옷,clothes
+320,신발,shoes
+321,모자,hat
+322,날씨,weather
+323,비,rain
+324,눈,snow
+325,바람,wind
+326,하늘,sky
+327,해,sun
+328,달,moon
+329,별,star
+330,산,mountain
+331,강,river
+332,바다,sea
+333,호수,lake
+334,나무,tree
+335,꽃,flower
+336,동물,animal
+337,개,dog
+338,고양이,cat
+339,새,bird
+340,물고기,fish
+341,말,horse
+342,몸,body
+343,머리,head
+344,얼굴,face
+345,코,nose
+346,입,mouth
+347,귀,ear
+348,손,hand
+349,발,foot
+350,팔,arm
+351,다리,leg
+352,배,stomach
+353,마음,heart/mind
+354,아프다,to hurt/be sick
+355,건강하다,to be healthy
+356,기쁘다,to be happy
+357,슬프다,to be sad
+358,행복하다,to be happy
+359,재미있다,to be interesting/fun
+360,재미없다,to be boring
+361,피곤하다,to be tired
+362,바쁘다,to be busy
+363,한가하다,to be free/not busy
+364,무섭다,to be scary
+365,걱정하다,to worry
+366,좋아,good/okay
+367,괜찮다,to be okay
+368,예쁘다,to be pretty
+369,멋있다,to be cool
+370,귀엽다,to be cute
+371,그리고,and
+372,하지만,but
+373,그래서,so/therefore
+374,또,also/again
+375,정말,really
+376,아주,very
+377,너무,too/very
+378,조금,a little
+379,많이,a lot
+380,잘,well
+381,못,cannot/not well
+382,항상,always
+383,자주,often
+384,가끔,sometimes
+385,보통,usually
+386,매일,every day
+387,함께,together
+388,혼자,alone
+389,먼저,first
+390,다시,again
+391,왼쪽,left
+392,오른쪽,right
+393,앞,front
+394,뒤,back
+395,위,up/on
+396,아래,down/under
+397,안,inside
+398,밖,outside
+399,옆,beside
+400,가운데,middle
+401,근처,nearby
+402,멀다,to be far
+403,가깝다,to be near
+404,직진,straight ahead
+405,입구,entrance
+406,출구,exit
+407,왜요,why? (polite)
+408,뭐예요,what is it?
+409,어디예요,where is it?
+410,얼마예요,how much is it?
+411,도와주세요,please help me
+412,천천히,slowly
+413,빨리,quickly
+414,여보세요,hello (on phone)
+415,잠깐,a moment
+416,맞아요,that's right
+417,아니에요,it's not/no
+418,모르겠어요,I don't know
+419,알겠어요,I understand
+420,잘 모르겠어요,I'm not sure
+421,하루,one day
+422,일주일,one week
+423,이번,this time
+424,다음,next
+425,지난,last/past
+426,처음,first time
+427,마지막,last
+428,시작,start
+429,끝,end
+430,전,before
+431,후,after
+432,동안,during
+433,때,when/time
+434,곳,place
+435,것,thing
+436,이유,reason
+437,남편,husband
+438,아내,wife
+439,부모님,parents
+440,아들,son
+441,딸,daughter
+442,할아버지,grandfather
+443,할머니,grandmother
+444,형제,siblings/brothers
+445,자매,sisters
+446,의사,doctor
+447,간호사,nurse
+448,경찰,police officer
+449,요리사,cook/chef
+450,운동선수,athlete
+451,가수,singer
+452,배우,actor
+453,교수,professor
+454,직업,occupation/job
+455,한국인,Korean person
+456,외국인,foreigner
+457,외국,foreign country
+458,여행,travel
+459,여행하다,to travel
+460,사진을 찍다,to take a photo
+461,예약,reservation
+462,예약하다,to reserve
+463,표,ticket
+464,여권,passport
+465,주변,surroundings
+466,생활,life/daily life
+467,생활하다,to live
+468,경험,experience
+469,경험하다,to experience
+470,계속하다,to continue
+471,배고프다,to be hungry
+472,목마르다,to be thirsty
+473,졸리다,to be sleepy
+474,요리,cooking
+475,음식,food
+476,음료,drink/beverage
+477,과자,snack
+478,아이스크림,ice cream
+479,케이크,cake
+480,치즈,cheese
+481,샌드위치,sandwich
+482,주문,order
+483,주문하다,to order
+484,맛있다,to be delicious
+485,맛없다,to be tasteless
+486,배부르다,to be full
+487,식사,meal
+488,아침밥,breakfast
+489,점심밥,lunch
+490,저녁밥,dinner
+491,숟가락,spoon
+492,젓가락,chopsticks
+493,컵,cup
+494,접시,plate
+495,냉장고,refrigerator
+496,식탁,dining table
+497,소파,sofa
+498,텔레비전,television
+499,거울,mirror
+500,열쇠,key
